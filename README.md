@@ -1,1 +1,3 @@
-# style
+# Style
+
+Visual for styling options
